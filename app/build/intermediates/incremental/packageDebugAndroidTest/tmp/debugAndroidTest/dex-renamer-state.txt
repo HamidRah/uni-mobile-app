@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+#Sat Jan 13 08:15:12 GMT 2024
+base.0=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/8/classes.dex
+=======
+#Sat Jan 13 10:12:03 GMT 2024
+base.0=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/8/classes.dex
+>>>>>>> f0e249e (Fixed timer countdown)
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

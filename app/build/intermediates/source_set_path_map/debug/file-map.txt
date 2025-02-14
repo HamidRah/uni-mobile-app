@@ -1,0 +1,78 @@
+com.example.studyfocus.app-datastore-1.0.0-0 /Users/hamidurrahman/.gradle/caches/transforms-3/09a77a9e360710a67dcf66cfb6bb1341/transformed/datastore-1.0.0/res
+com.example.studyfocus.app-room-paging-2.6.1-1 /Users/hamidurrahman/.gradle/caches/transforms-3/09f73ce8e977fb80f3ec9130a9c3d2cd/transformed/room-paging-2.6.1/res
+com.example.studyfocus.app-ui-tooling-data-release-2 /Users/hamidurrahman/.gradle/caches/transforms-3/10585f58a90664a691b4e662b962d97e/transformed/ui-tooling-data-release/res
+com.example.studyfocus.app-savedstate-ktx-1.2.1-3 /Users/hamidurrahman/.gradle/caches/transforms-3/17d33d9472268d59fe3ce0fa761d42d5/transformed/savedstate-ktx-1.2.1/res
+com.example.studyfocus.app-runtime-livedata-1.6.0-beta01-4 /Users/hamidurrahman/.gradle/caches/transforms-3/19c09c38e9d1301fa295156f05e85914/transformed/runtime-livedata-1.6.0-beta01/res
+com.example.studyfocus.app-navigation-compose-2.5.1-5 /Users/hamidurrahman/.gradle/caches/transforms-3/1ab81b6486b10017e96a5c93bbedf5df/transformed/navigation-compose-2.5.1/res
+com.example.studyfocus.app-room-runtime-2.6.1-6 /Users/hamidurrahman/.gradle/caches/transforms-3/1b73586eef24441b74c1a308288813af/transformed/room-runtime-2.6.1/res
+com.example.studyfocus.app-activity-compose-1.8.2-7 /Users/hamidurrahman/.gradle/caches/transforms-3/209da99ead374946255d33782669781f/transformed/activity-compose-1.8.2/res
+com.example.studyfocus.app-foundation-release-8 /Users/hamidurrahman/.gradle/caches/transforms-3/23e49d1856c5d44e7f16f0efd1f0a0f7/transformed/foundation-release/res
+com.example.studyfocus.app-ui-geometry-release-9 /Users/hamidurrahman/.gradle/caches/transforms-3/286c7a2e57283157cbec9aa7cad05cd3/transformed/ui-geometry-release/res
+com.example.studyfocus.app-lifecycle-process-2.6.2-10 /Users/hamidurrahman/.gradle/caches/transforms-3/313aaa36b40f9a869e1068bf4cff84f2/transformed/lifecycle-process-2.6.2/res
+com.example.studyfocus.app-emoji2-1.3.0-11 /Users/hamidurrahman/.gradle/caches/transforms-3/320515e9bc8a5b78b739f3154a945a25/transformed/emoji2-1.3.0/res
+com.example.studyfocus.app-animation-release-12 /Users/hamidurrahman/.gradle/caches/transforms-3/321de2385caaadc14c3b06ec58d04a1f/transformed/animation-release/res
+com.example.studyfocus.app-core-ktx-1.12.0-13 /Users/hamidurrahman/.gradle/caches/transforms-3/38cfb5c4dc0f0e2d1bf8bc53964aa9aa/transformed/core-ktx-1.12.0/res
+com.example.studyfocus.app-material3-window-size-class-release-14 /Users/hamidurrahman/.gradle/caches/transforms-3/3958f8335c4f8953062da5acecb7d31d/transformed/material3-window-size-class-release/res
+com.example.studyfocus.app-room-ktx-2.6.1-15 /Users/hamidurrahman/.gradle/caches/transforms-3/3dc21688cce57a25a9c1bebf341998bb/transformed/room-ktx-2.6.1/res
+com.example.studyfocus.app-datastore-preferences-1.0.0-16 /Users/hamidurrahman/.gradle/caches/transforms-3/4236951485920f7ef823b928141997da/transformed/datastore-preferences-1.0.0/res
+com.example.studyfocus.app-annotation-experimental-1.3.1-17 /Users/hamidurrahman/.gradle/caches/transforms-3/44fdeb9f4e09612d5d3e77135a3cadc7/transformed/annotation-experimental-1.3.1/res
+com.example.studyfocus.app-sqlite-2.4.0-18 /Users/hamidurrahman/.gradle/caches/transforms-3/45f3f52919e20fc6bc2e63a5e2da3fba/transformed/sqlite-2.4.0/res
+com.example.studyfocus.app-ui-test-manifest-1.6.0-beta01-19 /Users/hamidurrahman/.gradle/caches/transforms-3/4bd2588d39b55ad09f5f900628dec781/transformed/ui-test-manifest-1.6.0-beta01/res
+com.example.studyfocus.app-material-release-20 /Users/hamidurrahman/.gradle/caches/transforms-3/4c653ee0a598cdd4863fbfbb01196968/transformed/material-release/res
+com.example.studyfocus.app-lifecycle-runtime-compose-2.6.2-21 /Users/hamidurrahman/.gradle/caches/transforms-3/5aae7c62e10422596c216b4dd1d27526/transformed/lifecycle-runtime-compose-2.6.2/res
+com.example.studyfocus.app-window-1.0.0-22 /Users/hamidurrahman/.gradle/caches/transforms-3/5ed38866e788c86441785b7f1353955c/transformed/window-1.0.0/res
+com.example.studyfocus.app-material-ripple-release-23 /Users/hamidurrahman/.gradle/caches/transforms-3/61a682aff8f12ca4e0cf33c5187c2eaa/transformed/material-ripple-release/res
+com.example.studyfocus.app-lifecycle-livedata-core-2.6.2-24 /Users/hamidurrahman/.gradle/caches/transforms-3/65c4c06388387f1b6a088638bc02fe1b/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.studyfocus.app-lifecycle-runtime-2.6.2-25 /Users/hamidurrahman/.gradle/caches/transforms-3/6835f5b5b42a053481d357d2b9800f0d/transformed/lifecycle-runtime-2.6.2/res
+com.example.studyfocus.app-lifecycle-livedata-2.6.2-26 /Users/hamidurrahman/.gradle/caches/transforms-3/683c5233789b342532f82b563c162993/transformed/lifecycle-livedata-2.6.2/res
+com.example.studyfocus.app-startup-runtime-1.1.1-27 /Users/hamidurrahman/.gradle/caches/transforms-3/6f696b606e108e582551f464bf8b286e/transformed/startup-runtime-1.1.1/res
+com.example.studyfocus.app-core-1.12.0-28 /Users/hamidurrahman/.gradle/caches/transforms-3/70555d832e24546e9f0457004b6153f0/transformed/core-1.12.0/res
+com.example.studyfocus.app-navigation-common-ktx-2.5.1-29 /Users/hamidurrahman/.gradle/caches/transforms-3/78d550fb78caaec4f211144ef5c54e3b/transformed/navigation-common-ktx-2.5.1/res
+com.example.studyfocus.app-lifecycle-runtime-ktx-2.6.2-30 /Users/hamidurrahman/.gradle/caches/transforms-3/7a7a15906472480a5421278641882079/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.example.studyfocus.app-navigation-common-2.5.1-31 /Users/hamidurrahman/.gradle/caches/transforms-3/819f368010d2a09aa41ff40719f1ec49/transformed/navigation-common-2.5.1/res
+com.example.studyfocus.app-navigation-runtime-ktx-2.5.1-32 /Users/hamidurrahman/.gradle/caches/transforms-3/838f452d491bdbc4f0edb6ab710e8cf9/transformed/navigation-runtime-ktx-2.5.1/res
+com.example.studyfocus.app-customview-poolingcontainer-1.0.0-33 /Users/hamidurrahman/.gradle/caches/transforms-3/86964b3c65002d0edb40070cfeb016b1/transformed/customview-poolingcontainer-1.0.0/res
+com.example.studyfocus.app-material3-release-34 /Users/hamidurrahman/.gradle/caches/transforms-3/87ce61031cd3adfa0ace7f2d59c2ed38/transformed/material3-release/res
+com.example.studyfocus.app-material-icons-core-release-35 /Users/hamidurrahman/.gradle/caches/transforms-3/895dae05f0d1ff3e607a8f49f00f735a/transformed/material-icons-core-release/res
+com.example.studyfocus.app-hilt-navigation-1.1.0-36 /Users/hamidurrahman/.gradle/caches/transforms-3/89c1422569eefc9127ef4f18c1e2447a/transformed/hilt-navigation-1.1.0/res
+com.example.studyfocus.app-navigation-runtime-2.5.1-37 /Users/hamidurrahman/.gradle/caches/transforms-3/8e736f8bf1a12573e6617a7496d9af70/transformed/navigation-runtime-2.5.1/res
+com.example.studyfocus.app-foundation-layout-release-38 /Users/hamidurrahman/.gradle/caches/transforms-3/948e9803df34dabfb5ff5cb64ec66008/transformed/foundation-layout-release/res
+com.example.studyfocus.app-ui-text-release-39 /Users/hamidurrahman/.gradle/caches/transforms-3/9d738566f41272dae184371da3b67cb8/transformed/ui-text-release/res
+com.example.studyfocus.app-runtime-saveable-release-40 /Users/hamidurrahman/.gradle/caches/transforms-3/9e4e9f79b13dc132f7f3211aadaaab2d/transformed/runtime-saveable-release/res
+com.example.studyfocus.app-ui-graphics-release-41 /Users/hamidurrahman/.gradle/caches/transforms-3/a3e183d9e908138bcbbccf5ff5e1052d/transformed/ui-graphics-release/res
+com.example.studyfocus.app-lifecycle-livedata-ktx-2.6.2-42 /Users/hamidurrahman/.gradle/caches/transforms-3/a5fbebe867c97c4166e0c35dd9d01027/transformed/lifecycle-livedata-ktx-2.6.2/res
+com.example.studyfocus.app-ui-util-release-43 /Users/hamidurrahman/.gradle/caches/transforms-3/a8fecd654494bc54fd337e5aa4d5ec6e/transformed/ui-util-release/res
+com.example.studyfocus.app-fragment-1.5.1-44 /Users/hamidurrahman/.gradle/caches/transforms-3/a975181488e0d0c0b6ff3bd2b290155b/transformed/fragment-1.5.1/res
+com.example.studyfocus.app-lifecycle-viewmodel-compose-2.6.2-45 /Users/hamidurrahman/.gradle/caches/transforms-3/bd462be325f346c85ad025b41d47866e/transformed/lifecycle-viewmodel-compose-2.6.2/res
+com.example.studyfocus.app-activity-ktx-1.8.2-46 /Users/hamidurrahman/.gradle/caches/transforms-3/cb126cd614d5bb4d815dad01ac902b4c/transformed/activity-ktx-1.8.2/res
+com.example.studyfocus.app-activity-1.8.2-47 /Users/hamidurrahman/.gradle/caches/transforms-3/cc0874361c0d85e09b3aa5b38aaf0ab3/transformed/activity-1.8.2/res
+com.example.studyfocus.app-profileinstaller-1.3.0-48 /Users/hamidurrahman/.gradle/caches/transforms-3/cca3170332f00eb4876e3b34a35eccee/transformed/profileinstaller-1.3.0/res
+com.example.studyfocus.app-animation-core-release-49 /Users/hamidurrahman/.gradle/caches/transforms-3/cd4845d04f145d7f58ff1359f0f5103b/transformed/animation-core-release/res
+com.example.studyfocus.app-lifecycle-viewmodel-2.6.2-50 /Users/hamidurrahman/.gradle/caches/transforms-3/d4ee0c854844191a6fe279325e56d740/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.studyfocus.app-sqlite-framework-2.4.0-51 /Users/hamidurrahman/.gradle/caches/transforms-3/d65c6b8f26244c8fe43c69a9b09fde0c/transformed/sqlite-framework-2.4.0/res
+com.example.studyfocus.app-core-runtime-2.2.0-52 /Users/hamidurrahman/.gradle/caches/transforms-3/d80ee94efb43351428dabdbaddb94e65/transformed/core-runtime-2.2.0/res
+com.example.studyfocus.app-lifecycle-viewmodel-savedstate-2.6.2-53 /Users/hamidurrahman/.gradle/caches/transforms-3/dbe1c849c6c5a3f1e1a266f21b29a338/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.studyfocus.app-ui-unit-release-54 /Users/hamidurrahman/.gradle/caches/transforms-3/de64a6367d7c743f36e673debe6e5ae9/transformed/ui-unit-release/res
+com.example.studyfocus.app-ui-tooling-release-55 /Users/hamidurrahman/.gradle/caches/transforms-3/e9619a87c549cd70d374f4e923ffbbe9/transformed/ui-tooling-release/res
+com.example.studyfocus.app-ui-release-56 /Users/hamidurrahman/.gradle/caches/transforms-3/ed416710797204d9876ef79329071216/transformed/ui-release/res
+com.example.studyfocus.app-runtime-release-57 /Users/hamidurrahman/.gradle/caches/transforms-3/ed60017421700605accf448a1dbfd2b5/transformed/runtime-release/res
+com.example.studyfocus.app-hilt-navigation-compose-1.1.0-58 /Users/hamidurrahman/.gradle/caches/transforms-3/eeb474ef1356ed16302be23ea2c5f553/transformed/hilt-navigation-compose-1.1.0/res
+com.example.studyfocus.app-lifecycle-livedata-core-ktx-2.6.2-59 /Users/hamidurrahman/.gradle/caches/transforms-3/f0b75a5d93a643f1370db96ca556c7c0/transformed/lifecycle-livedata-core-ktx-2.6.2/res
+com.example.studyfocus.app-ui-tooling-preview-release-60 /Users/hamidurrahman/.gradle/caches/transforms-3/f6aeba1ebdf8758d819fac6d4677ec97/transformed/ui-tooling-preview-release/res
+com.example.studyfocus.app-savedstate-1.2.1-61 /Users/hamidurrahman/.gradle/caches/transforms-3/f973ac557208a9df9959249b75f7b490/transformed/savedstate-1.2.1/res
+com.example.studyfocus.app-lifecycle-viewmodel-ktx-2.6.2-62 /Users/hamidurrahman/.gradle/caches/transforms-3/fcb6114f46d45d33cb2d9b12db93d6e8/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+<<<<<<< HEAD
+com.example.studyfocus.app-resValues-63 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/generated/res/resValues/debug
+com.example.studyfocus.app-packageDebugResources-64 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.studyfocus.app-packageDebugResources-65 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.studyfocus.app-merged_res-66 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/build/intermediates/merged_res/debug
+com.example.studyfocus.app-debug-67 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/src/debug/res
+com.example.studyfocus.app-main-68 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus/app/src/main/res
+=======
+com.example.studyfocus.app-resValues-63 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/generated/res/resValues/debug
+com.example.studyfocus.app-packageDebugResources-64 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.studyfocus.app-packageDebugResources-65 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.studyfocus.app-merged_res-66 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/build/intermediates/merged_res/debug
+com.example.studyfocus.app-debug-67 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/src/debug/res
+com.example.studyfocus.app-main-68 /Users/hamidurrahman/Desktop/UWECompSci/Year3/StudyFocus 3/app/src/main/res
+>>>>>>> f0e249e (Fixed timer countdown)
